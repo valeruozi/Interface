@@ -293,3 +293,8 @@ Results = [ResultsA, ResultsB]
 LockIn.do_plot()
 
 # todo-vale Settare reference mode auto o internal
+
+
+
+
+
